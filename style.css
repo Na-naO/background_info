@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+span{
+  height: 100vh;
+}
+
+header{
+  background-color: blueviolet;
+  padding: 15px 40px;
+}
