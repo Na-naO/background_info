@@ -3,6 +3,11 @@
   padding: 0;
 }
 
+section{
+  width:100vw;
+  height: 1000vh;
+}
+
 span{
   height: 100vh;
 }
@@ -14,7 +19,7 @@ header{
 }
 
 
-.main{
+main{
   display: flex;
   height: 70%;
 }
@@ -27,7 +32,12 @@ header{
 }
 
 .main-screen{
-  width: 70%;
+  width: 80%;
   background-color: powderblue;
   
+  
+}
+
+.sample{
+  height:330px;
 }
