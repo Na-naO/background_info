@@ -43,3 +43,9 @@ main{
 .sample{
   height:330px;
 }
+
+.card{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
