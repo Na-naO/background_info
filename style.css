@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+p{
+  text-align: left;
+}
+
 section{
   width:100vw;
   height: 1000vh;
