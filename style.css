@@ -28,13 +28,6 @@ main{
   height: 70%;
 }
 
-.side-bar{
-  background-color: darksalmon;
-  width: 20%;
-  color: bisque;
-  font-size: 20px;
-  overflow: scroll;
-}
 
 .main-screen{
   width: 80%;
@@ -44,12 +37,26 @@ main{
   
 }
 
+
+.side-bar{
+  background-color: darksalmon;
+  width: 20%;
+  color: bisque;
+  font-size: 20px;
+  overflow: scroll;
+}
+
+
 .sample{
   height:330px;
 }
 
-.card{
+/* .card{
   display: flex;
   justify-content: space-around;
-  align-items: center;
+  align-items: center; */
 }
+
+/* .chat-content{
+
+} */
