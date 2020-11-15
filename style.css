@@ -53,6 +53,15 @@ header{
 }
 
 
+.chat-content{
+  display: flex;
+  
+}
+
+h2{
+  padding-right: 200px;
+}
+
 
 /* .chat-content{
   background-color: red;
