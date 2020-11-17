@@ -59,7 +59,7 @@ header{
 }
 
 h2{
-  padding-right: 200px;
+  padding-right: 100px;
 }
 
 
@@ -67,3 +67,12 @@ h2{
   background-color: red;
   display: flex;
 } */
+
+
+.mylist{
+  padding-right:200px;
+}
+
+li{
+  list-style: none;
+}
