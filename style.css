@@ -90,9 +90,10 @@ li{
 
 .chat-form{
   margin-left: 300px;
+  margin-top: 400px;
   border: 1px solid black;
   width:60%;
-  height:70%;
+  height:200%;
   border-radius:6px;
   padding:2px;
   background-color:#F8F8F8;
@@ -101,7 +102,7 @@ li{
 
 .form-text{
   width:100%;
-  height:50%;
+  height:100%;
   border: none;
 }
 
