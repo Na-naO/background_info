@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-p{
+h1{
   text-align: left;
 }
 
@@ -30,6 +30,8 @@ header{
   display: flex;
   height: 70%;
 } */
+
+
 
 
 .main-screen{
@@ -109,3 +111,4 @@ li{
 /* .form-option{
   height:50%;
 } */
+
