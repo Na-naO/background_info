@@ -73,6 +73,10 @@ h2{
   padding-right:200px;
 }
 
+.recommended{
+  padding-right:200px;
+}
+
 li{
   list-style: none;
 }
@@ -107,6 +111,8 @@ li{
   height:100%;
   border: none;
 }
+
+
 
 /* .form-option{
   height:50%;
